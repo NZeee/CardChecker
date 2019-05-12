@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Card Checker</string>
+    <string name="greeting">Hi! I\'m a simple credit card checker. Just enter any card number below:</string>
+    <string name="enter_the_number">Enter the number…</string>
+    <string name="card_scheme_template">Scheme: %1$s</string>
+    <string name="card_type_template">Type: %1$s</string>
+    <string name="card_country_template">Country: %1$s</string>
+    <string name="card_bank_template">Bank: %1$s</string>
+</resources>
